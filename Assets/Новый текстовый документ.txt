@@ -1,0 +1,7 @@
+1. Drum infinit
+
+Design:
+1. Coin
+	Se va misca mereu
+2. Other coin + 2
+3. Obstacole (gaura + pareti + ???)
